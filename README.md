@@ -2,7 +2,7 @@
 This is a simple books recommendation system that recommends books to users based on their reading history. It uses collaborative filtering algorithms to find similar users and recommends books that those users have enjoyed.
 
 # Installation
-Clone the repository: git clone https://github.com/your_username/books-recommendation-system.git
+Clone the repository: git clone https://github.com/your_username/book_recommendation.ipynb.git
 Navigate to the project directory: cd books-recommendation-system
 Install the necessary libraries: pip install -r requirements.txt
 
